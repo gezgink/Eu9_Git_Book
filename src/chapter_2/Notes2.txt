@@ -1,1 +1,5 @@
 
+
+this is the new notes page
+
+lets look into the intelij to check the file 
